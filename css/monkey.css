@@ -8,7 +8,7 @@ html {
   right: 120px;
 }
 
-@media only screen and (max-width: 1090px)
+@media only screen and (max-width: 1090px){
 
   #monkey {
     position: relative;
