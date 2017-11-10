@@ -11,9 +11,9 @@ html {
 @media only screen and (max-width: 1090px){
 
   #monkey {
-    position: relative;
+    position: fixed;
     
-    
+
 
   }
 }
@@ -21,8 +21,8 @@ html {
 @media only screen and (min-width: 490px) {
 
   #monkey {
-    position: absolute;
-    
+    position: fixed;
+
   }
 }
 /* Write your solution here */
