@@ -12,7 +12,7 @@ html {
 
   #monkey {
     position: relative;
-    top: 550px;
+    bottom: 550px;
     
   }
 }
